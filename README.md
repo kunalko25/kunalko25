@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kunal Kore
 
 <h3 align="center">
-  Aspiring Penetration Tester | Ethical Hacker | Python Security Tool Developer
+ Aspiring Penetration Tester | Ethical Hacker | Offensive Security Enthusiast | Founder of CyberScript AI
 </h3>
 
 <p align="center">

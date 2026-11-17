@@ -51,10 +51,6 @@ My focus is on learning through hands-on labs, building security tools and under
 ### Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 ### Penetration Testing Tools
 

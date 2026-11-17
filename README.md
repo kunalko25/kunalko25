@@ -1,155 +1,209 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+
+<!-- ========================================================= -->
+<!--                 KUNAL KORE | GITHUB PROFILE               -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Kunal+Kore;Aspiring+Penetration+Tester;Offensive+Security+Enthusiast;Building+CyberScript+AI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,50:071C14,100:050505&text=KUNAL%20KORE&fontColor=00FF9C&fontSize=65&fontAlignY=45&animation=fadeIn&desc=OFFENSIVE%20SECURITY%20%7C%20PENETRATION%20TESTING&descSize=16&descAlignY=68" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&height=55&lines=Aspiring+Penetration+Tester;Cybersecurity+%26+Ethical+Hacking;Python+Security+Tool+Developer;Building+CyberScript+AI;Learn+%7C+Practice+%7C+Build+%7C+Secure" alt="Typing Animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/kunalko25">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/kunalko25?tab=repositories">
+<img src="https://img.shields.io/badge/My_Projects-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://github.com/kunalko25?tab=stars">
+<img src="https://img.shields.io/badge/Explore_Stars-111111?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kunalko25&label=PROFILE+VIEWS&color=00FF9C&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👋 Hi there!
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV1eGQzazBoeWIwaGM4dzE5cG82YmFuM2R3NDQyOGNqYnRhd25nMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" width="190">
+<img align="right" width="190" src="https://media.giphy.com/media/dCBZtA2iuNqZW/giphy.gif" alt="Cyber animation"/>
 
-I'm **Kunal Kore**, a BCA student at MIT VPU, Solapur, India, passionate about cybersecurity, ethical hacking and offensive security.
+Hi, I'm **Kunal Kore**, a BCA student at MIT VPU, Solapur, India.
 
-I'm working towards becoming a professional **Penetration Tester**, developing practical cybersecurity skills and building my own cybersecurity venture, **CyberScript AI**.
+I'm passionate about cybersecurity, ethical hacking and offensive security. My goal is to become a professional **Penetration Tester** and build innovative cybersecurity solutions.
 
-My focus is on learning through hands-on labs, building security tools and understanding real-world vulnerabilities.
+I enjoy learning through hands-on labs, developing security tools and exploring real-world vulnerabilities in authorized environments.
 
-## 💫 More About Me
+- 🎓 BCA Student
+- 🛡️ Aspiring Penetration Tester
+- 🔐 Ethical Hacking & Offensive Security
+- 🐍 Python Security Tool Development
+- 🐉 Kali Linux
+- 🚀 Founder of CyberScript AI
 
-- 👨‍💻 Name: Kunal Kore
-- 🇮🇳 From: India
-- 🎓 Education: Bachelor of Computer Applications (BCA)
-- 🛡️ Career Goal: Penetration Tester
-- 🔐 Interest: Ethical Hacking & Offensive Security
-- 🚀 Founder: CyberScript AI
-- 📚 Certification: Practical Ethical Hacking — Completed
-- 🎯 Currently: eJPT Preparation
-- 🐉 Operating System: Kali Linux
-
-## 📌 Present Status
-
-- 🔍 Practicing Network Reconnaissance and Enumeration
-- 🌐 Learning Web Application Penetration Testing
-- 🛠️ Developing Python-based Security Tools
-- 💻 Practicing TryHackMe and Hack The Box labs
-- 🔐 Exploring Metasploit and Vulnerability Assessment
-- 🐧 Improving Linux and Windows security knowledge
-- 🚀 Developing CyberScript AI
-- 📖 Preparing for professional penetration testing certifications
+<br clear="right"/>
 
 ---
 
-## 🛠️ Knowledge & Skills
+## 🎯 Current Focus
 
-### Programming & Scripting
+```bash
+┌──(kunal㉿kali)-[~/cybersecurity]
+└─$ cat current_focus.txt
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+[+] Network Reconnaissance & Enumeration
+[+] Web Application Penetration Testing
+[+] Vulnerability Assessment
+[+] Metasploit Framework
+[+] Linux & Windows Security
+[+] Python Security Automation
+[+] eJPT Certification Preparation
+[+] TryHackMe & Hack The Box Labs
+[+] CyberScript AI Development
+
+[*] Status: Continuously Learning
+```
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode" />
+</p>
 
 ### Penetration Testing Tools
 
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=plastic&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=plastic)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=plastic)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-333333?style=plastic)
-![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=plastic&logoColor=black)
+<p align="left">
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hydra-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLmap-FCC624?style=for-the-badge"/>
+</p>
 
-### Operating Systems & Platforms
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-
----
-
-## 🏆 Certifications & Learning
-
-- ✅ Practical Ethical Hacking — Cyber Mindspace
-- 🔄 eJPT — Preparation in Progress
-- 📚 TryHackMe — Hands-on Learning
-- 📚 Hack The Box — Practical Labs
-
----
-
-## 🚀 Projects & Development
-
-| Project | Description |
-|---|---|
-| CyberScript AI | AI-powered cybersecurity platform |
-| Python Network Port Scanner | Python-based network scanning |
-| Honeypot Project | Monitoring suspicious network activity |
-| Security Automation | Custom Python security scripts |
-
----
-
-## 🔥 Featured Project
-
-### CyberScript AI
-
-Building an AI-powered cybersecurity platform with a vision to simplify penetration testing, security automation and cybersecurity learning.
-
-**Core Vision:**
-- AI-powered security script generation
-- Custom Python security tools
-- Pentesting workspace
-- Security automation
-- Intelligent cybersecurity assistance
-
----
-
-## 🌐 Connect With Me
+### Operating Systems & Virtualization
 
 <p align="left">
-<a href="https://github.com/kunalko25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,docker" />
 </p>
+
+---
+
+## 📚 Certifications & Learning
+
+| Certification / Platform | Status |
+|:---|:---|
+| Practical Ethical Hacking – Cyber Mindspace | ✅ Completed |
+| eJPT | 🔄 Preparation in Progress |
+| TryHackMe | 📚 Hands-on Practice |
+| Hack The Box | 📚 Hands-on Practice |
+
+---
+
+## 🚀 Projects & Portfolio
+
+| Project | Description | Status |
+|:---|:---|:---|
+| CyberScript AI | AI-powered cybersecurity platform | Development |
+| Python Network Port Scanner | Python-based network scanning tool | Building |
+| Honeypot | Monitoring suspicious network activity | Building |
+| Security Automation | Custom Python security scripts | Learning |
+
+---
+
+## 🧠 CyberScript AI
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:050505,100:092B1D&text=CyberScript%20AI&fontColor=00FF9C&fontSize=38&fontAlignY=60"/>
+
+**Building the future of intelligent cybersecurity.**
+
+</div>
+
+CyberScript AI is my long-term vision for an AI-powered cybersecurity platform designed to simplify security testing, automate workflows and support cybersecurity learning.
+
+### Planned Features
+
+- 🤖 AI-powered Python security script generation
+- 🔍 Automated reconnaissance assistance
+- 🛡️ Penetration testing workspace
+- ⚙️ Security automation tools
+- 💬 Intelligent cybersecurity assistant
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kunalko25&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalko25&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunalko25&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalko25&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalko25&layout=compact&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=kunalko25&theme=dark&hide_border=true&background=050505&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+</div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/kunalko25/kunalko25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalko25&bg_color=050505&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kunalko25/kunalko25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/kunalko25">
+<img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🔐 Learn. Practice. Build. Secure.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF9C"/>
 
-*"Think like an attacker. Build like an engineer. Defend like a professional."*
+### THINK LIKE AN ATTACKER.
+### BUILD LIKE AN ENGINEER.
+### SECURE LIKE A PROFESSIONAL.
 
-**Kunal Kore | Offensive Security | CyberScript AI**
+**LEARN • PRACTICE • BUILD • SECURE**
+
+**KUNAL KORE | CYBERSECURITY | CYBERSCRIPT AI**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071C14,100:050505&height=100&section=footer"/>
 
 </div>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
